@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.btn {
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 38px;
+  padding: 10px 20px 10px 20px;
+  margin-top: 2vh;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
